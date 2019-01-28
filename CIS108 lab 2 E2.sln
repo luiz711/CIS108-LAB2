@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CIS108 lab 2 E2", "CIS108 lab 2 E2\CIS108 lab 2 E2.vcxproj", "{50059EF0-7019-4C1C-BB3B-462E129277CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50059EF0-7019-4C1C-BB3B-462E129277CC}.Debug|x64.ActiveCfg = Debug|x64
+		{50059EF0-7019-4C1C-BB3B-462E129277CC}.Debug|x64.Build.0 = Debug|x64
+		{50059EF0-7019-4C1C-BB3B-462E129277CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{50059EF0-7019-4C1C-BB3B-462E129277CC}.Debug|x86.Build.0 = Debug|Win32
+		{50059EF0-7019-4C1C-BB3B-462E129277CC}.Release|x64.ActiveCfg = Release|x64
+		{50059EF0-7019-4C1C-BB3B-462E129277CC}.Release|x64.Build.0 = Release|x64
+		{50059EF0-7019-4C1C-BB3B-462E129277CC}.Release|x86.ActiveCfg = Release|Win32
+		{50059EF0-7019-4C1C-BB3B-462E129277CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B11958DF-822A-4D75-AAFB-A16C83FDF0A9}
+	EndGlobalSection
+EndGlobal
